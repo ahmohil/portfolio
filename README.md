@@ -8,12 +8,7 @@
 
 <br/>
 
-<center>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/ahmohil/Portfolio?color=red&logo=github&style=for-the-badge) &nbsp;
-![GitHub forks](https://img.shields.io/github/forks/ahmohil/Portfolio?color=red&logo=github&style=for-the-badge)
-
-</center>
 
 <h3 align="center">
     🔹
