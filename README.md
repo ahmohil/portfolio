@@ -12,13 +12,6 @@
 
 
 
-<h3 align="center">
-    🔹
-    <a href="https://github.com/ahmhil/Portfolio/issues">Report Bug</a> &nbsp; &nbsp;
-    🔹
-    <a href="https://github.com/ahmohil/Portfolio/issues">Request Feature</a>
-</h3>
-
 ## Features
 
 - **Project Showcase:** Browse through a curated selection of my projects, each highlighting different skills and technologies.
