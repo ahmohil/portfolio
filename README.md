@@ -1,5 +1,7 @@
-<h2 align="center">
- <p>Welcome to my awesome portfolio website! This website showcases my projects, skills, and experiences in a sleek and modern design. Built using React, this portfolio showcases my skills and provides visitors with an insight into my journey as a developer and the exciting projects I've worked on.</p>
+<p >
+ Welcome to my awesome portfolio website! This website showcases my projects, skills, and experiences in a sleek and modern design. Built using React, this portfolio showcases my skills and provides visitors with an insight into my journey as a developer and the exciting projects I've worked on.</p>
+  
+  <h2 align="center">
   <a href="ahmohil.github.io/portfolio" >Porfolio</a>
 </h2>
 <div align="center">
